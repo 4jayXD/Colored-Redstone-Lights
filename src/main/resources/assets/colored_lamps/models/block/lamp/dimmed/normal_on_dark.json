@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "all":     "colored_lamps:block/lamp/dimmed/redstone_lamp_on_2"
+  }
+}

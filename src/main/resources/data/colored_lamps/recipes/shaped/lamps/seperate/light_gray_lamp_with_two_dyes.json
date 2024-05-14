@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "",
+  "group": "",
+  "pattern":
+  [
+    "CAC",
+    "ABA",
+    "CAC"
+  ],
+  "key":
+  {
+    "A": {"item": "minecraft:white_dye"},
+    "C": {"item": "minecraft:gray_dye"},
+    "B": {"item": "minecraft:redstone_lamp"}
+  },
+  "result": {
+    "item": "colored_lamps:redstone_lamp_light_gray"
+  },
+  "show_notification": true
+}

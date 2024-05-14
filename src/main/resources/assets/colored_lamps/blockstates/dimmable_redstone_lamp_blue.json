@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "lit=false":                  {"model": "colored_lamps:block/lamp/off"},
+    "lit=true,brightness=dark":   {"model": "colored_lamps:block/lamp/dimmed/blue_on_dark"},
+    "lit=true,brightness=dim":    {"model": "colored_lamps:block/lamp/dimmed/blue_on_dim"},
+    "lit=true,brightness=normal": {"model": "colored_lamps:block/lamp/blue_on"}
+  }
+}

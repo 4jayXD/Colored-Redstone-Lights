@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "colored_lamps",
+	"version": "${version}",
+	"name": "Colored Lamps",
+	"description": "Adds colored lamps to the game!",
+	"authors": [
+		"Ajay"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "ARR",
+	"icon": "assets/colored_lamps/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.ajayxd.colored_lamps.ColouredLamps"
+		],
+		"fabric-datagen": [
+			"net.ajayxd.colored_lamps.ColouredLampsDataGenerator"
+		]
+	},
+	"mixins": [
+		"colored_lamps.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
