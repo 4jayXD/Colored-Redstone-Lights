@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": {"model": "colored_lamps:block/lamp/off"},
+    "lit=true": {"model": "colored_lamps:block/lamp/light_blue_on"}
+  }
+}

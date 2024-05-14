@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "lit=false":                   {"model": "colored_lamps:block/lamp/off"},
+    "lit=true,colour=normal":      {"model": "colored_lamps:block/lamp/white_on"},
+    "lit=true,colour=white":       {"model": "colored_lamps:block/lamp/white_on"},
+    "lit=true,colour=light_gray":  {"model": "colored_lamps:block/lamp/light_gray_on"},
+    "lit=true,colour=gray":        {"model": "colored_lamps:block/lamp/gray_on"},
+    "lit=true,colour=brown":       {"model": "colored_lamps:block/lamp/brown_on"},
+    "lit=true,colour=red":         {"model": "colored_lamps:block/lamp/red_on"},
+    "lit=true,colour=orange":      {"model": "colored_lamps:block/lamp/orange_on"},
+    "lit=true,colour=yellow":      {"model": "colored_lamps:block/lamp/yellow_on"},
+    "lit=true,colour=green":       {"model": "colored_lamps:block/lamp/green_on"},
+    "lit=true,colour=dark_green":  {"model": "colored_lamps:block/lamp/dark_green_on"},
+    "lit=true,colour=cyan":        {"model": "colored_lamps:block/lamp/cyan_on"},
+    "lit=true,colour=light_blue":  {"model": "colored_lamps:block/lamp/light_blue_on"},
+    "lit=true,colour=blue":        {"model": "colored_lamps:block/lamp/blue_on"},
+    "lit=true,colour=purple":      {"model": "colored_lamps:block/lamp/purple_on"},
+    "lit=true,colour=magenta":     {"model": "colored_lamps:block/lamp/magenta_on"},
+    "lit=true,colour=pink":        {"model": "colored_lamps:block/lamp/pink_on"}
+  }
+}
