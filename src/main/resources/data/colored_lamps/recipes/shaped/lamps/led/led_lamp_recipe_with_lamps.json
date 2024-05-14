@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "",
+  "group": "",
+  "pattern":
+  [
+    " A ",
+    "D#B",
+    " C "
+  ],
+  "key":
+  {
+    "#": {"item": "colored_lamps:redstone_lamp_white"},
+    "D": {"item": "minecraft:comparator"},
+    "A": {"item": "colored_lamps:redstone_lamp_red"},
+    "B": {"item": "colored_lamps:redstone_lamp_green"},
+    "C": {"item": "colored_lamps:redstone_lamp_blue"}
+  },
+  "result":
+  {
+    "item": "colored_lamps:redstone_lamp_led",
+    "count": 4
+  },
+  "show_notification": true
+}
