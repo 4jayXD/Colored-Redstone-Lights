@@ -1,0 +1,20 @@
+{
+  "values":
+  [
+      "minecraft:redstone_lamp",
+      "colored_lamps:redstone_lamp_white",
+      "colored_lamps:redstone_lamp_light_gray",
+      "colored_lamps:redstone_lamp_gray",
+      "colored_lamps:redstone_lamp_red",
+      "colored_lamps:redstone_lamp_orange",
+      "colored_lamps:redstone_lamp_yellow",
+      "colored_lamps:redstone_lamp_green",
+      "colored_lamps:redstone_lamp_dark_green",
+      "colored_lamps:redstone_lamp_cyan",
+      "colored_lamps:redstone_lamp_light_blue",
+      "colored_lamps:redstone_lamp_blue",
+      "colored_lamps:redstone_lamp_purple",
+      "colored_lamps:redstone_lamp_magenta",
+      "colored_lamps:redstone_lamp_pink"
+  ]
+}
